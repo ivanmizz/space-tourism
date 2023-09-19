@@ -3,6 +3,7 @@
 </script>
 
 <template>
+  <!-- work in progress -->
   <div class="bg-cover h-screen bg-[url('destinationbackground')]" >
     <h1>This is the destination view page</h1>
   </div>
